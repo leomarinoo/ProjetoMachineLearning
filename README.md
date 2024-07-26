@@ -25,7 +25,7 @@ Projeto-ML/
 ├── testes.ipynb
 ├── app.py
 ├── pizzas.csv
-└── README.md 
+└── README.md
 
 ## Como usar
 
@@ -36,5 +36,7 @@ streamlit run app.py
 ## Documentação
 
 https://docs.streamlit.io/
+
 https://pandas.pydata.org/docs/
+
 https://scikit-learn.org/0.21/documentation.html
