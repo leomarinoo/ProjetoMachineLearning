@@ -22,12 +22,14 @@ Assim, o projeto combina análise de dados e desenvolvimento web (Streamlit) par
 ## Estrutura do Projeto
 
 Projeto-ML/
-├── pasta_1/
-│ └── testes.ipynb
-├── pasta_2/
-│ └── app.py
+
+├── testes.ipynb
+
+├── app.py
+
 ├── pizzas.csv
-└── README.md
+
+└── README.md 
 
 ## Como usar
 
