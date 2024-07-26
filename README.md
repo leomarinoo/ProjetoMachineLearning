@@ -22,8 +22,10 @@ Assim, o projeto combina análise de dados e desenvolvimento web (Streamlit) par
 ## Estrutura do Projeto
 
 Projeto-ML/
-├── testes.ipynb
-├── app.py
+├── pasta_1/
+│ └── testes.ipynb
+├── pasta_2/
+│ └── app.py
 ├── pizzas.csv
 └── README.md
 
@@ -39,4 +41,4 @@ https://docs.streamlit.io/
 
 https://pandas.pydata.org/docs/
 
-https://scikit-learn.org/0.21/documentation.html
+https://scikit-learn.org/0.21/documentation.html 
